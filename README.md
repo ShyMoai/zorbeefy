@@ -1,4 +1,4 @@
-# Cenafy
+# Zorbeefy
 
 A Google Chrome Extension has a 1/100 chance of injecting the Zorbeez ad by billy mays whenever you load up a new tab.
 HOW TO ADD TO CHROME : 
